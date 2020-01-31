@@ -11,7 +11,7 @@ public class Solution
         int i = 4;
         double d = 4.0;
         String s = "HackerRank ";
-	      Scanner scan = new Scanner(System.in);
+	Scanner scan = new Scanner(System.in);
         int x;  double f; String ss;
         x = scan.nextInt();
         f = scan.nextDouble();
